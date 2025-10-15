@@ -4,3 +4,4 @@ Our team shall begin by designing:
 -adding a mock database
 -rendering data using Razor
 -designing a user friendly UI using Bootstrap
+In order to run the file, download it and open it in a photo-editor software. 
